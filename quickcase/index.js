@@ -1,3 +1,9 @@
 doctype html
+html (lang="en")
+	head
+		title=Email Blast
 
-input(placeholder='Dealership Name')
+
+	body
+
+		input(placeholder='Dealership Name')
